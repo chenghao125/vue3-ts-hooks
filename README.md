@@ -1,4 +1,4 @@
-# vue3ts
+# vue3 + ts + hooks
 
 ## Project setup
 ```
