@@ -1,7 +1,7 @@
 # Vue3 + Ts + hooks
 # Tips
 ```
-基于 Vue3 + Ts 封装的简易hooks
+基于 Vue3 + Ts 封装的简易hooks，共勉。
 ```
 
 ## Project setup
